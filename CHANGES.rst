@@ -33,7 +33,7 @@ New Features
 - ``astropy.nddata``
 
 - ``astropy.stats``
- 
+
   - Added ``jackknife`` resampling method. [#3708]
 
   - Updated ``bootstrap`` to allow bootstrapping statistics with multiple
@@ -462,7 +462,7 @@ New Features
     ``Magnitude``, ``Decibel``, and ``Dex``. [#1894]
 
   - Quantities now work with the unit support in matplotlib.  See
-    :ref:`plotting-quantities`. [#3981]
+    ``plotting-quantities``. [#3981]
 
 - ``astropy.utils``
 
